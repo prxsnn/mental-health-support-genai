@@ -21,3 +21,5 @@
 - Performed exploratory data analysis on three real-world mental health datasets
   (27,977 + 232,074 + 1,259 records) using matplotlib, seaborn, and wordcloud,
   identifying a 3.3x word count disparity between crisis and non-crisis posts
+
+For better understanding, please refer to the Jupyter Notebook(.ipynb file) and the Project Report(.pdf)
